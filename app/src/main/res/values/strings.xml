@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">work</string>
+    <string name="vx">微信</string>
+    <string name="contact">联系人</string>
+    <string name="find">发现</string>
+    <string name="myself">我的</string>
+    <string name="head_name" />
+</resources>
